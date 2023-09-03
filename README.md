@@ -1,8 +1,6 @@
 <div align="center">
-  
-**Luke Volkmer** 
 
-# <img src="name.gif" />
+# <img src="name.gif" alt="Luke Volkmer" />
 
 [<img src="house-solid.svg" alt="🏠" width=18px height=16px/> Website](https://spencer.imbleau.com) 
 [<img src="pencil-solid.svg" alt="📝" width=16px height=16px/> Blog](https://simbleau.github.io/blog/) 
