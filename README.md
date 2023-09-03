@@ -9,8 +9,9 @@
 <br/>
 
 [<img src="logo-linkedin.svg" alt="luke-volkmer" width=30px height=30px/>](https://www.linkedin.com/in/luke-volkmer-091b50160/)
-<a href = "mailto: lvolkme@gmail.com"> <img src="mail-outline.svg" alt="lvolkme@gmail.com" width=30px height=30px/></a>
+[<img src="mail-outline.svg" alt="lvolkme@gmail.com" width=30px height=30px/>](mailto:lvolkme@gmail.com)
 <img src="globe-outline.svg" alt="website" width=30px height=30px/>
+
 
 <br/>
 
