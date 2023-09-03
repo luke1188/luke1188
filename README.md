@@ -2,6 +2,8 @@
   
 **Luke Volkmer** 
 
+# <img src="name.gif" />
+
 [<img src="house-solid.svg" alt="🏠" width=18px height=16px/> Website](https://spencer.imbleau.com) 
 [<img src="pencil-solid.svg" alt="📝" width=16px height=16px/> Blog](https://simbleau.github.io/blog/) 
 [<img src="envelope-solid.svg" alt="📧" width=16px height=16px/> E-mail](mailto:spencer@imbleau.com) 
